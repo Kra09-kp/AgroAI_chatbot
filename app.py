@@ -12,7 +12,7 @@ def Farmer_assistant(query,client):
             },
             {
                 "role": "user",
-                "content": f"Give a powerfull solution of the {query} precisely and accurately and don't say to the user to wait for the moment instead you can wait for that and then give the fetched information to the user. Try to give response in that language user ask query if the user say that they need response in a specified langauge then give them solution in that language otherwise in give the response in the english."
+                "content": f"Give a powerfull solution of the {query} precisely and accurately and don't say to the user to wait for the moment instead you can wait for that and then give the fetched information to the user. Give response in that language user ask query if the user say that they need response in a specified langauge then give them solution in that language otherwise in give the response in the english."
             }
         ]
     )
