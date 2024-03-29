@@ -98,7 +98,7 @@ def main():
                 else:
                     with st.chat_message("🤖"):
                         while check_for_waiting(response):
-                            time.sleep(8)
+                            time.sleep(5)
                             response=generate_response(user_input,client)
                         st.markdown(response)
                         st.session_state.messages.append({"role": "🤖", "content": response})
