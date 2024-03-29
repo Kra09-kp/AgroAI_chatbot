@@ -52,7 +52,7 @@ def main():
     st.title("AgroAI Chatbot 🌾🤖")
     
     
-    openai_api_key = st.text_input("Enter your API Key here:", type="password")
+    openai_api_key = st.text_input("Enter your Openai API Key here:", type="password")
     st.caption("Declaration📜: I don't save your openai api key, it is just for generating response for you.")
     
     client = OpenAI(api_key=openai_api_key)
