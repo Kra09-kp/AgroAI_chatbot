@@ -133,7 +133,7 @@ def main():
         st.write("Let's connect to explore opportunities, share knowledge, and collaborate on exciting projects!")
        
         st.write("🔗 **Connect with Me:**")
-        #st.write("[🌐 Portfolio](https://www.google.com/)") 
+        st.write("[🌐 Portfolio](https://www.kirtipogra.me/)") 
         st.write("[📧 Email](mailto:kirtipogra@gmail.com)")
         st.write("[📝 LinkedIn](https://www.linkedin.com/in/kirti-pogra/)")
 
