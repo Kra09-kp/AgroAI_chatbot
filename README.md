@@ -74,11 +74,6 @@ streamlit run app.py
 
 This project was created for learning purposes, aiming to develop a chatbot to assist farmers with their agricultural queries. If you encounter any issues or have suggestions for improvement, please feel free to reach out. Your feedback is greatly appreciated!
 
----
-
-I hope this README file helps you get started with your project. If you have any other questions, feel free to ask! 🙂
-
----
 
 [Back to the main menu](#agroai-chatbot-🌾🤖)
 
